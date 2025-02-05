@@ -42,10 +42,10 @@ Questions & Knowledge to Expose:
 
 General Process Understanding:
 
-1.	Can you walk us through the current employee onboarding process step by step?
-2.	How do you currently train new employees, and what resources are provided?
-3.	What are the most time-consuming aspects of training new hires?
-4.	How do you measure when an employee is fully onboarded?
+      1.Can you walk us through the current employee onboarding process step by step?
+      2.How do you currently train new employees, and what resources are provided?
+      3.What are the most time-consuming aspects of training new hires?
+      4.How do you measure when an employee is fully onboarded?
 
 Client Onboarding Issues:
 
